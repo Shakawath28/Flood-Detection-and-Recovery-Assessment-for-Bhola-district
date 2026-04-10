@@ -1,11 +1,1 @@
-# Clone your repository (if you haven't already)
-git clone https://github.com/Shakawath28/Flood-Detection-and-Recovery-Assessment-for-Bhola-district.git
-cd Flood-Detection-and-Recovery-Assessment-for-Bhola-district
 
-# Copy your PDF file into the repository folder
-file:///C:/Users/MSI/Downloads/Assignment_9(Shakawat_Hossain).pdf .
-
-# Stage, commit, and push
-git add file.pdf
-git commit -m "Add PDF file"
-git push origin main
