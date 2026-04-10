@@ -1,3 +1,6 @@
+/////Code_Link
+https://code.earthengine.google.com/a736dae1a2ceb0be35d2c5e9e64346e9
+
 # Flood-Detection-and-Recovery-Assessment-for-Bhola-district
 var name2=table.aggregate_array("NAME_3")
 print(name2)
